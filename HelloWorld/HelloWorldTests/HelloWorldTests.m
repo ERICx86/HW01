@@ -1,18 +1,18 @@
 //
-//  HW1Tests.m
-//  HW1Tests
+//  HelloWorldTests.m
+//  HelloWorldTests
 //
-//  Created by ERICx86 on 13-10-14.
+//  Created by ERICx86 on 13-10-16.
 //  Copyright (c) 2013年 ERICx86. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface HW1Tests : XCTestCase
+@interface HelloWorldTests : XCTestCase
 
 @end
 
-@implementation HW1Tests
+@implementation HelloWorldTests
 
 - (void)setUp
 {
