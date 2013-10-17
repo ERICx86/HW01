@@ -26,4 +26,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)doBtnHide:(id)sender {
+    //  [_lblHelloWorld setHidden:YES];
+    [lblHelloWorldsetHiden: ![_lblHelloWorld isHidden]]
+}
+
 @end
