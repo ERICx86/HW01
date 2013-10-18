@@ -28,7 +28,7 @@
 
 - (IBAction)doBtnHide:(id)sender {
     //  [_lblHelloWorld setHidden:YES];
-    [lblHelloWorldsetHiden: ![_lblHelloWorld isHidden]]
+    [_lblHelloWorld setHidden: ![_lblHelloWorld isHidden]];
 }
 
 @end
