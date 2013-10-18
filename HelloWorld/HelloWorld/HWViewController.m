@@ -29,6 +29,7 @@
 - (IBAction)doBtnHide:(id)sender {
     //  [_lblHelloWorld setHidden:YES];
     [_lblHelloWorld setHidden: ![_lblHelloWorld isHidden]];
+    [sender setTitle:[_lblHelloWorld isHidden]?@"Show":@"Hide" forState:UIControlStateNormal];
 }
 
 @end
