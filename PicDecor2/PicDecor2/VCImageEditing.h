@@ -6,7 +6,7 @@
 //  Copyright (c) 2013年 ERICx86. All rights reserved.
 //
 
-#import "VCDecorations.h"
+#import <UIKit/UIKit.h>
 
 @interface VCImageEditing : UIViewController {
     IBOutlet UIImageView *ivEditingImage;

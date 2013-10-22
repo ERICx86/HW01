@@ -128,13 +128,13 @@
 				8AE21FDF1815173100AD49FF /* HWViewController.h */,
 				8AE21FE01815173100AD49FF /* HWViewController.m */,
 				8AE21FE21815173100AD49FF /* Images.xcassets */,
-				8AE21FD11815173100AD49FF /* Supporting Files */,
 				8AE21FFF1815486700AD49FF /* VCImageEditing.h */,
 				8AE220001815486700AD49FF /* VCImageEditing.m */,
 				8AE220011815486700AD49FF /* VCImageEditing.xib */,
 				8AE22004181548B100AD49FF /* VCDecorations.h */,
 				8AE22005181548B100AD49FF /* VCDecorations.m */,
 				8AE22006181548B100AD49FF /* VCDecorations.xib */,
+				8AE21FD11815173100AD49FF /* Supporting Files */,
 			);
 			path = PicDecor2;
 			sourceTree = "<group>";
@@ -481,6 +481,7 @@
 				8AE21FFB1815173100AD49FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8AE21FFC1815173100AD49FF /* Build configuration list for PBXNativeTarget "PicDecor2Tests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +490,7 @@
 				8AE21FFE1815173100AD49FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
